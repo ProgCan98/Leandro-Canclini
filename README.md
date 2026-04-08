@@ -11,7 +11,7 @@ Soy desarrollador web con formación técnica, enfocado en crear aplicaciones we
 
 **Frontend**
 - HTML5, CSS3, Tailwindcss , JavaScript
-- React (o agregar framework que uses)
+- React
 
 **Backend**
 - Node.js, Express
