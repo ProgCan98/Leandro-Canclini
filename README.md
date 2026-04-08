@@ -1,7 +1,7 @@
 # 👋 Hola, soy Leandro Canclini
 
 💻 **Desarrollador Web Full Stack**  
-🎓 **Técnico en Desarrollo de Software**
+🎓 **Técnico Superior en Desarrollo de Software**
 
 Soy desarrollador web con formación técnica, enfocado en crear aplicaciones web funcionales, bien estructuradas y mantenibles. Me interesa seguir creciendo profesionalmente y participar en proyectos donde pueda aportar y aprender.
 
@@ -10,7 +10,7 @@ Soy desarrollador web con formación técnica, enfocado en crear aplicaciones we
 ## 🧰 Tecnologías
 
 **Frontend**
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, Tailwindcss , JavaScript
 - React (o agregar framework que uses)
 
 **Backend**
@@ -18,11 +18,11 @@ Soy desarrollador web con formación técnica, enfocado en crear aplicaciones we
 - APIs REST
 
 **Base de datos**
-- MySQL / PostgreSQL
+- MySQL / PostgreSQL / MongoDB
 
 **Herramientas**
 - Git & GitHub
-- VS Code
+- VS Code / Cursor
 
 ---
 
@@ -34,6 +34,6 @@ Actualmente me encuentro desarrollando proyectos personales para fortalecer mis 
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/in/TU-LINK
-- 💻 GitHub: https://github.com/USUARIO
-- 📧 Email: tucorreo@email.com
+- 💼 LinkedIn: 
+- 💻 GitHub: https://github.com/ProgCan98
+- 📧 Email: cancliniprogramming@gmail.com
