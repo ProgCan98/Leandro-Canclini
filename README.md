@@ -1,39 +1,26 @@
-# 👋 Hola, soy Leandro Canclini
+## 👋 Hola, soy Leandro Canclini
 
-💻 **Desarrollador Web Full Stack**  
-🎓 **Técnico Superior en Desarrollo de Software**
+**Desarrollador Web Full Stack | Técnico Superior en Desarrollo de Software**
 
-Soy desarrollador web con formación técnica, enfocado en crear aplicaciones web funcionales, bien estructuradas y mantenibles. Me interesa seguir creciendo profesionalmente y participar en proyectos donde pueda aportar y aprender.
+Soy un desarrollador con formación técnica sólida, enfocado en construir aplicaciones web eficientes, escalables y centradas en el usuario. Me apasiona resolver problemas reales a través del código, creando arquitecturas limpias y mantenibles. Actualmente me especializo en el ecosistema JavaScript/TypeScript y bases de datos relacionales.
 
----
+### 🧰 Stack Tecnológico
 
-## 🧰 Tecnologías
+- **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express, APIs REST
+- **Base de Datos:** PostgreSQL, MySQL
+- **Herramientas:** Git, GitHub, VS Code, Postman
 
-**Frontend**
-- HTML5, CSS3, Tailwindcss , JavaScript
-- React
+### 🚀 Proyectos Destacados
 
-**Backend**
-- Node.js, Express
-- APIs REST
+- 🎾 **[Tennis Club Social Manager](https://github.com/ProgCan98/tennis-club-social-manager)** *(En desarrollo activo)*
+  Sistema integral web para gestionar la presencia social, eventos y administración de un club de tenis. 
+  *Stack en implementación: React, Next.js, Node.js, PostgreSQL.*
 
-**Base de datos**
-- MySQL / PostgreSQL / MongoDB
+*(Próximamente más proyectos en mi portfolio).*
 
-**Herramientas**
-- Git & GitHub
-- VS Code / Cursor
+### 📫 Contacto
 
----
-
-## 🚀 Proyectos destacados
-
-Actualmente me encuentro desarrollando proyectos personales para fortalecer mis habilidades en desarrollo web full stack. Próximamente estarán disponibles en este perfil.
-
----
-
-## 📫 Contacto
-
-- 💼 LinkedIn: 
-- 💻 GitHub: https://github.com/ProgCan98
-- 📧 Email: cancliniprogramming@gmail.com
+- 💼 **LinkedIn:** [in/leandro-canclini](https://www.linkedin.com/in/leandro-canclini) 
+- 💻 **GitHub:** [@ProgCan98](https://github.com/ProgCan98)
+- 📧 **Email:** [cancliniprogramming@gmail.com](mailto:cancliniprogramming@gmail.com)
